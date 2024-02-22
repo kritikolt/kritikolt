@@ -1,6 +1,6 @@
 # Olá! me chamo Marcos👋
 
-Sou um entusiasta do desenvolvimento Full-Stack com uma paixão por desafios e uma sede insaciável por novos conhecimentos! 💡 Estou constantemente buscando expandir minha habilidades e aprimorar minha compreensão das tecnologias mais recentes.
+Sou um entusiasta do desenvolvimento Full-Stack com uma paixão por desafios e uma sede insaciável por novos conhecimentos! 💡 Estou constantemente buscando expandir minhas habilidades e aprimorar minha compreensão das tecnologias mais recentes.
 
 
 
